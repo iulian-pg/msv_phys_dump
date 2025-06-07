@@ -12,3 +12,6 @@ The main benefit of this approach is that it avoids opening or reusing handles f
 The main downside is the need for a vulnerable driver that goes undetected. eneio64.sys, for instance, is quite old and is flagged by most EDR solutions. However, since this project is intended purely as a proof of concept, there was no need to search for an undetected alternative.
 
 Since the exploit only reads memory and does not perform any writes or modifications, the risk of a BSOD should be low. I have not experienced any crashes during testing, but you never know 🤷‍♂️.
+
+Execution:
+![imagen](https://github.com/user-attachments/assets/87345766-420f-47f9-889d-44478d92e8a8)
