@@ -14,4 +14,5 @@ The main downside is the need for a vulnerable driver that goes undetected. enei
 Since the exploit only reads memory and does not perform any writes or modifications, the risk of a BSOD should be low. I have not experienced any crashes during testing, but you never know 🤷‍♂️.
 
 Execution:
-![imagen](https://github.com/user-attachments/assets/87345766-420f-47f9-889d-44478d92e8a8)
+
+![imagen](https://github.com/user-attachments/assets/83ad0106-42cf-4a9b-9b0e-078eb8b29640)
